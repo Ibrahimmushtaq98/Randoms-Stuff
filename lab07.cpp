@@ -1,5 +1,3 @@
-//Programmer: Ibrahim Mushtaq
-//Student ID: 100620409
 //Description: This program will output the month and year of the user input. Much like a calendar application.
 
 #include <iostream>
