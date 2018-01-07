@@ -143,8 +143,7 @@ void inputChecking(string inp){
     
 }
 //This function will return the off sets of beggining of the month for that year
-//
-//NOTE: This formula was found online. This isn't mine to begin with.
+
 int getStartDayOfYear(int year){
     int x1 = (year-1)/4;
     int x2 = (year-1)/100;
